@@ -1,0 +1,10 @@
+{
+  "templater-obsidian:create-Templates/Daily.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Numpad0"
+    }
+  ]
+}
