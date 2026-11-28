@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Resources/n8n.md",
+                "file": "Daily/2026-11-28.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "n8n"
+              "title": "2026-11-28"
             }
           }
         ]
@@ -201,6 +201,8 @@
   "active": "75f84a0d295dcb67",
   "lastOpenFiles": [
     "Weekly/Untitled.md",
+    "Daily/2026-11-28.md",
+    "Daily/2026-11-27.md",
     "03 Resources/n8n.md",
     "Daily/2026-11-24.md",
     "Weekly",
